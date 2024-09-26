@@ -1,0 +1,2 @@
+8 . Primitive Data Types are Number ,String, Undefined, Boolean, Null , 
+Non-Preemptive:  Object ,   Array .
